@@ -1,10 +1,12 @@
-# Cybersecurity | Consulting | Smart Contract Audit | Blockchain Audit
-Empower your crypto venture with Line1 – where innovation meets ironclad security. Your journey into blockchain begins with us, your first line of defense against vulnerabilities and risks. Line1’s auditing team has been ensuring the security of crypto projects since 2020.
+# Our Services
 
-Enhance the security of your smart contract by addressing vulnerabilities and potential attack vectors. Benefit from Line1’s comprehensive approach, including a dual line-to-line code analysis and a separate review conducted by a leading audit team.
-Elevate your project’s security to unparalleled heights by choosing Line1. Our seasoned engineers, with a wealth of experience in the dynamic landscape of DeFi, are committed to fortifying your smart contract against emerging threats. We pride ourselves on not just identifying vulnerabilities but offering strategic insights to future-proof your project.
+### Smart Contract Audit: Unleashing the Power of Precision Security
 
-With Line1, you’re not just getting an audit; you’re gaining a trusted partner dedicated to the long-term success and resilience of your blockchain endeavor.
+In blockchain and decentralized finance (DeFi), smart contracts serve as the backbone, executing functions and transactions autonomously. As these contracts handle significant value and sensitive operations, their security is of highest importance. This is where Line1’s Smart Contract Audit service takes centre stage, offering a cutting-edge approach to fortify the very foundation of your blockchain project and secure the underlying smart contracts.
 
-## Line1.io - Your first line of defense within blockchain.
+### Blockchain Audit
+In blockchain technology, the security of L1’s protocols stands as the bedrock of trust for users and investors alike. Line1’s Blockchain Audit service dives deep into the layers of your project’s L1 blockchain protocol, ensuring that each element is not only secure but reinforced against potential threats. Our seasoned experts, with a track record collectively spanning over 1500 audits since 2020, bring a wealth of experience to the forefront, offering a comprehensive assessment tailored to the unique intricacies of your project.
+
+### Dapp Audit
+Decentralized applications (dApps) form the backbone of the blockchain ecosystem, offering users innovative and secure ways to interact with blockchain networks. Line1’s Dapp Audit service is a comprehensive exploration of your Dapp’s codebase, smart contract functionality, and its interaction with blockchain networks. Our seasoned experts, with a proven track record in DeFi security, bring a wealth of experience to ensure that your Dapp not only functions seamlessly but is well-rounded against potential vulnerabilities.
 
