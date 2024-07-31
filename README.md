@@ -10,3 +10,4 @@ In blockchain technology, the security of L1’s protocols stands as the bedrock
 ### Dapp Audit
 Decentralized applications (dApps) form the backbone of the blockchain ecosystem, offering users innovative and secure ways to interact with blockchain networks. Line1’s Dapp Audit service is a comprehensive exploration of your Dapp’s codebase, smart contract functionality, and its interaction with blockchain networks. Our seasoned experts, with a proven track record in DeFi security, bring a wealth of experience to ensure that your Dapp not only functions seamlessly but is well-rounded against potential vulnerabilities.
 
+## Line1.io - Your first line of defense within blockchain.
