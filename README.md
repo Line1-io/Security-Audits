@@ -6,5 +6,5 @@ Elevate your project’s security to unparalleled heights by choosing Line1. Our
 
 With Line1, you’re not just getting an audit; you’re gaining a trusted partner dedicated to the long-term success and resilience of your blockchain endeavor.
 
-## Your first line of defense within blockchain.
+## Line1.io - Your first line of defense within blockchain.
 
