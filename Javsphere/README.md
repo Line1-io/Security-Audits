@@ -14,7 +14,7 @@ This repository contains the security audit report for the Javsphere project, a 
 
 ### About the Project
 
-Javsphere offers the next generation of Decentralized Finance (DeFi) products. The ecosystem is built upon the foundation of DeFiChain, a blockchain based on Bitcoin code that brings native DeFi capabilities to Bitcoin. The project also includes DeFi Meta Chain (DMC), an EVM-compatible layer for quick deployment of dApps and Smart Contracts (SC) that connects Bitcoin with Ethereum.
+Javsphere offers the next generation of Decentralized Finance (DeFi) products. The ecosystem is built upon the foundation of DeFiChain, a blockchain based on Bitcoin code that brings native DeFi capabilities to Bitcoin. On top of native DeFi, DeFi Meta Chain (DMC) was added as a functionality upgrade. DMC enables projects to build on the EVM-compatible layer quickly and deploy dApps and Smart Contracts (SC). Through the DMC, DeFiChain connects Bitcoin with Ethereum.
 
 - **Chain:** To Be Announced (TBA)
 - **Language:** Solidity
@@ -26,6 +26,7 @@ Javsphere offers the next generation of Decentralized Finance (DeFi) products. T
 - **V1.0:** Initial Report - 14th August 2024
 - **V1.1:** Reaudit - 25th September 2024
 - **V1.2:** Small Adjustments - 1st October 2024
+- **V1.3:** Small Adjustments - 2nd October 2024
 
 ### Scope of Work
 
@@ -43,11 +44,10 @@ The audit focused on a thorough security assessment of the Solidity Smart Contra
 
 The audit reviewed the following dependencies:
 
-- @openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol
-- @openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol
-- @openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol
-- @openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol
-- @openzeppelin/contracts-upgradeable/token/ERC20/extensions/ERC20BurnableUpgradeable.sol
+- `@openzeppelin/contracts-upgradeable/token/ERC20/extensions/ERC20BurnableUpgradeable.sol`
+- `@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol`
+- `@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol`
+- `@openzeppelin/contracts/utils/math/Math.sol`
 - (and several more listed in the full report)
 
 ## Contact
